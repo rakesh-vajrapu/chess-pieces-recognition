@@ -38,7 +38,7 @@ To replicate and run the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/chess-pieces-recognition](https://github.com/rakesh-vajrapu/chess-pieces-recognition).git
+   git clone (https://github.com/rakesh-vajrapu/chess-pieces-recognition).git
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the project:
